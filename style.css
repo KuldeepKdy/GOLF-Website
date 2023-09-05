@@ -150,7 +150,8 @@ video {
 }
 
 #page1 #arrow:hover {
-    scale: 0.4;
+    /* scale: 0.4; */
+    transform: scale(0.4);
     background-color: #95C11E;
 }
 
@@ -417,7 +418,8 @@ video {
     height: 100%;
     width: 100%;
     object-fit: cover;
-    scale: 1.1;
+    /* scale: 1.1; */
+    transform: scale(1.1);
 }
 
 .elem:hover h2 {
@@ -426,7 +428,7 @@ video {
 }
 
 .elem:hover img {
-    scale: 1;
+    transform: scale(1);
 }
 
 #page4 h1 {
@@ -466,6 +468,7 @@ video {
 #f2,
 #f3,
 #f4 {
+    width: -moz-fit-content;
     width: fit-content;
     position: relative;
     z-index: 99;
