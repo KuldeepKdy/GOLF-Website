@@ -1,6 +1,6 @@
 <h2>About the project</h2>
 
-  <p>A <b>GOLF Website</b> This is a Golf Website which is created by using Vanilla CSS, Java Script and Gsap(Java Script Library used to Create Amazing Animations)
+<p>A <b>GOLF Website</b> This is a Golf Website which is created by using Vanilla CSS, Java Script and Gsap(Java Script Library used to Create Amazing Animations)
 Must See!!!</p>
 
 <h3>Build with:</h3>
