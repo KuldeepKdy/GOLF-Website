@@ -13,6 +13,6 @@ Must See!!!</p>
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src=(https://github.com/KuldeepKdy/GOLF-Website/assets/134807119/5d5600f8-1793-4ae8-9d8f-4ccda8b7117b)/>
+<img src=(https://github.com/KuldeepKdy/GOLF-Website/assets/134807119/1e5fb9b2-d4a2-4e79-a8db-61bf99c93ad4)/>
 
 </div>
